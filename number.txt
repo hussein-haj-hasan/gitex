@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 main one
 main two
 one
-=======
 one
 two
->>>>>>> 915937f (add two)
